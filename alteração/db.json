@@ -1,0 +1,92 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "imgSrc": "antesDeVoce.jpeg",
+            "valor": 35.90,
+            "title": "Como eu era antes de você",  
+            "description": "Mistura comédia e drama em um romance que vai fazer você tirar o lencinho da bolsa.",
+            "estoque": "8 exemplares em estoque",
+            "autor": "Jojo Moyes",
+            "resenha": "o livro é bom, a história é legal apesar de ser triste,só não é meu preferido da Jojo Moyes,acho que criei uma expectativa muito grande pelo o que as pessoas estavam dizendo,então esperava um pouco mais ao ler.",
+            "classificacao": "★★★★★"
+        },
+        {"id": 2,
+            "imgSrc":"biblioteca_da_meia_noite.jpeg",
+            "valor": 43.00,
+            "title": "A biblioteca da meia noite",  
+            "description": "Romance incrível que fala dos infinitos rumos que a vida pode tomar e da busca incessante pelo rumo certo.",
+            "estoque": "6 livros"
+        },
+        {"id": 3,
+            "imgSrc":"ate_o_verao_terminar.jpeg",
+            "valor": 32.00,
+            "title": "Até o verão terminar",  
+            "description": "Traumas fizeram Beyah uma pessoa cética e desconfiada. Mas ela está prestes a mudar a sua sorte graças a si mesma.",
+            "estoque": "Produto esgotado"
+        },
+        {"id": 4,
+            "imgSrc":"eu_e_esse_meu_coração.jpeg",
+            "valor": 30.00,
+            "title": "Eu e esse meu coração",  
+            "description": "Leah não tem um coração, somente um artificial que ela carrega dentro de uma mochila. Com os dias contados, ela cria uma lista de 'coisas para fazer antes de morrer'",
+            "estoque": "4 exemplares em estoque"
+        },
+        {"id": 5,
+            "imgSrc":"percy-jackson.jpeg",
+            "valor": 159.99,
+            "title": "Percy Jackson e os Olimpianos (BOX)",  
+            "description": "Box com cinco livros de aventura, romance, suspense e fantasia. Retratando a mitologia Grega do seculo XXI",
+            "estoque": "2 exemplares em estoque"
+        },
+        {"id": 6,
+            "imgSrc":"coraline.jpeg",
+            "valor": 39.40,
+            "title": "Coraline",  
+            "description": "Ao abrir uma porta misteriosa na sala de casa, a menina se depara com um lugar macabro e fascinante.",
+            "estoque": "8 exemplares em estoque"
+        },
+        {"id": 7,
+            "imgSrc": "antesDeVoce.jpeg",
+            "valor": 35.90,
+            "title": "Como eu era antes de você",  
+            "description": "Mistura comédia e drama em um romance que vai fazer você tirar o lencinho da bolsa.",
+            "estoque": "8 exemplares em estoque"
+        },
+        {"id": 8,
+            "imgSrc":"harry_potter.jpeg",
+            "valor": 47.60,
+            "title": "Harry potter e a pedra filosofal",  
+            "description": "Harry é apresentado ao mundo dos bruxos e descobre que é muito famoso por ter sobrevivido ao ataque de Voldemort.",
+            "estoque": "8 exemplares em estoque"
+        },
+        {"id": 9,
+            "imgSrc": "antesDeVoce.jpeg",
+            "valor": 35.90,
+            "title": "Como eu era antes de você",  
+            "description": "Mistura comédia e drama em um romance que vai fazer você tirar o lencinho da bolsa.",
+            "estoque": "8 exemplares em estoque"
+        },
+        {"id": 10,
+            "imgSrc": "antesDeVoce.jpeg",
+            "valor": 35.90,
+            "title": "Como eu era antes de você",  
+            "description": "Mistura comédia e drama em um romance que vai fazer você tirar o lencinho da bolsa.",
+            "estoque": "8 exemplares em estoque"
+        },
+        {"id": 11,
+            "imgSrc": "antesDeVoce.jpeg",
+            "valor": 35.90,
+            "title": "Como eu era antes de você",  
+            "description": "Mistura comédia e drama em um romance que vai fazer você tirar o lencinho da bolsa.",
+            "estoque": "8 exemplares em estoque"
+        },
+        {"id": 12,
+            "imgSrc": "antesDeVoce.jpeg",
+            "valor": 35.90,
+            "title": "Como eu era antes de você",  
+            "description": "Mistura comédia e drama em um romance que vai fazer você tirar o lencinho da bolsa.",
+            "estoque": "8 exemplares em estoque"
+        }
+    ]
+}
